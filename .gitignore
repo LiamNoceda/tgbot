@@ -1,0 +1,41 @@
+# macOS System Files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Build Directories
+build/
+Build/
+cmake-build-*/
+out/
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*~
+
+# Compiled Binaries & Libraries
+*.o
+*.a
+*.so
+*.dylib
+*.out
+bot
+tg_assistant
+modern_bot
+
+# Logs & Temporary Files
+*.log
+bot_log.txt
+log.txt
+nohup.out
