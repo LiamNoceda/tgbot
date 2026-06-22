@@ -26,6 +26,6 @@ cmake --build .
 Execution context reads the entry credentials securely from system environment flags. Set the endpoint token prior to operational binary initialization:
 
 ```bash
-export TELEGRAM_BOT_TOKEN="8841462190:AAEb1_Dz9lmr-ADe3E9uYsDk9kZz3eXXLT8"
+export TELEGRAM_BOT_TOKEN="YOUR_ACTUAL_TOKEN_HERE"
 ./tg_assistant
 ```
